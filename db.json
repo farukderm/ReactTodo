@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Grocery Shopping",
+      "status": "daily",
+      "date": "1/18/2024"
+    },
+    {
+      "id": "2",
+      "title": "Finish React Project",
+      "status": "important",
+      "date": "1/19/2024"
+    },
+    {
+      "id": "ea49",
+      "title": "nodejs öğren",
+      "status": "job",
+      "date": "9/26/2024, 6:39:22 PM"
+    },
+    {
+      "id": "059a",
+      "title": "tekrar yap tekrar yap",
+      "status": "important",
+      "date": "9/26/2024, 6:39:31 PM"
+    }
+  ]
+}
