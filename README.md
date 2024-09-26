@@ -22,3 +22,7 @@ Bu proje, React, Axios, Bootstrap, JSON Server, react-icons ve react-toastify ku
 - [React Toastify](https://fkhadra.github.io/react-toastify/introduction) - Bildirimler için.
 
 ## Ekran Görüntüsü
+
+
+https://github.com/user-attachments/assets/57656fca-00e2-477b-bee4-db1ef95f3c50
+
