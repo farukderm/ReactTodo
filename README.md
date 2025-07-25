@@ -24,5 +24,6 @@ Bu proje, React, Axios, Bootstrap, JSON Server, react-icons ve react-toastify ku
 ## Ekran Görüntüsü
 
 
-https://github.com/user-attachments/assets/57656fca-00e2-477b-bee4-db1ef95f3c50
+![reacttodo](https://github.com/user-attachments/assets/207e43a9-c137-48b3-84f3-06f2834b06e3)
+
 
